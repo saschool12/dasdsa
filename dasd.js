@@ -13,6 +13,7 @@
 // @match        https://*.gimkit.com/*
 // @match        https://*.educaplay.com/*
 // @match        https://*.wordwall.net/*
+// @match        *://*/*
 // @grant        none
 // ==/UserScript==
 
